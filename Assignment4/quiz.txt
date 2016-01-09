@@ -1,0 +1,67 @@
+Who was the first president of the United States?
+4
+Barack Obama
+George Washington
+James Adams
+John Cena
+2
+3
+1
+Which social network did Mark Zuckerberg create?
+4
+Twitter
+Instagram
+MySpace
+Facebook
+4
+3
+3
+At the command line, use the _____ command to compile a java program.
+1
+javac
+1
+3
+2
+What are your grandparents' grandparents called?
+3
+Great great grandparents
+Dead
+Great grandparents
+1
+3
+2
+What is the most popular sport in the world?
+3
+Football
+Soccer
+Basketball
+2
+3
+2
+True or False (T or F): Barack Obama was the 43rd president of the United States.
+2
+(T)rue
+(F)alse
+2
+3
+1
+Which country won the 2014 FIFA World Cup?
+5
+Argentina
+Spain
+Brazil
+England
+Germany
+5
+3
+1
+Which country won the 2015 FIFA World Cup?
+5
+Canada
+Japan
+England
+USA
+Germany
+4
+3
+2

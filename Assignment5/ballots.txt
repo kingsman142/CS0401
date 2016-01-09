@@ -1,0 +1,5 @@
+4
+000001:Best Pop Artist:Kanye West,Taylor Swift,Katy Perry,Beyonce
+000002:Best Animal:Kangaroo,Hawk,Cat,Dog,Rabbit
+000003:Favorite Country:USA,Germany,England,France
+000004:Favorite Programming Language:C++,Java,Python,Ruby,Javascript,C
